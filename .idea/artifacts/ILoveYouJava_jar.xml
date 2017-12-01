@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ILoveYouJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ILoveYouJava_jar</output-path>
+    <root id="archive" name="ILoveYouJava.jar">
+      <element id="module-output" name="ILoveYouJava" />
+    </root>
+  </artifact>
+</component>
